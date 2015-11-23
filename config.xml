@@ -155,10 +155,21 @@
     <gap:plugin name="cordova-plugin-network-information" source="npm" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-plugin-vibration" source="npm" />
-	<gap:plugin name="com.phonegap.plugin.statusbar" />
+	<plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
+	
+	
+	
 
-	<!-- <gap:cordova plugin add cordova-plugin-statusbar /> -->
+	<!-- 
+	
+	or real page said
+	<plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
+	
+	<gap:plugin name="com.phonegap.plugin.statusbar" />
+	
+	
+	<gap:cordova plugin add cordova-plugin-statusbar /> -->
 	<!-- 
 	<gap:plugin name="com.phonegap.plugin.statusbar" />
 	<gap:plugin name="com.phonegap.plugin.statusbar" source="npm" /> -->
