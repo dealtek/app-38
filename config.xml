@@ -155,7 +155,7 @@
     <gap:plugin name="cordova-plugin-network-information" source="npm" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-plugin-vibration" source="npm" />
-	<plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
+	<gap:plugin name="com.phonegap.plugin.statusbar" source="npm" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
 	
 	
