@@ -126,8 +126,7 @@
 			they say just plain
 			cordova plugin add cordova-plugin-device
 			
-			
-			<gap:plugin name="cordova-plugin-device" source="npm" version="0.2.3"  />
+<gap:plugin name="cordova-plugin-device" source="npm" version="0.2.3"  />
 			 -->
 
 
@@ -161,7 +160,6 @@
 	<!-- try npm and gap: in front for statusbar-->
 
 	<!-- 
-	
 	or real page said
 	<plugin name="com.phonegap.plugin.statusbar" spec="1.1.0" source="pgb" />
 	
