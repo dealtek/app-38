@@ -2,8 +2,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.idcapp.basic"
-    versionCode = "138" 
-    version     = "1.3.8" >
+    versionCode = "139" 
+    version     = "1.3.9" >
 	
 	<!--just android ios-->
 	
@@ -95,10 +95,14 @@
 	
 	<preference name="StatusBarOverlaysWebView" value="true" />
 	<preference name="StatusBarBackgroundColor" value="#FFF" />
+	
+	6290ee
+	<preference name="StatusBarBackgroundColor" value="#000000" /> 
+	
 	 -->
 	 
 	<preference name="StatusBarOverlaysWebView" value="false" />
-	<preference name="StatusBarBackgroundColor" value="#000000" /> 
+	<preference name="StatusBarBackgroundColor" value="#6290ee" /> 
 	
 	<preference name="phonegap-version" value="cli-5.2.0" /> <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
